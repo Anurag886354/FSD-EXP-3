@@ -1,11 +1,12 @@
 {
-  "name": "exp_1.3.1",
+  "name": "FSD-EXP-3",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://anurag886354.github.io/FSD-EXP-3/",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
